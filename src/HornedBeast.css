@@ -1,0 +1,14 @@
+.single-beast {
+  padding: 10px;
+  border: 1px solid black;
+  margin: 10px;
+  width: 25vw;
+}
+
+img {
+    width: 25vw;
+}
+
+h2 {
+  font-size: 2vw;
+}

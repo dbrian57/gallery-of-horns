@@ -1,3 +1,46 @@
+# Gallery for Horned Beasts
+
+This is a website that displayed photos of various horned beasts and allows you to vote on them.
+
+## Lab 02
+
+Dynamically added images, added a voting feature, and imported bootstrap.
+
+**Number and name of feature:** 1) Display Images
+
+**Estimate of time needed to complete:** 30 minutes.
+
+**Start time:** 3:30 EST
+
+**Finish time:** 4:00 EST
+
+**Actual time needed to complete:** 30 min (although, I feel like I got lucky today)
+
+-----
+**Number and name of feature:** 2) Allow users to vote for their favorite beast
+
+**Estimate of time needed to complete:** 45 minutes
+
+**Start time:** 4:00 EST
+
+**Finish time:** 4:45 EST
+
+**Actual time needed to complete:** 45 min (maybe an hour?)
+
+-----
+
+**Number and name of feature:** 3) Bootstrap
+
+**Estimate of time needed to complete:** 60 minutes
+
+**Start time:** 4:45 EST
+
+**Finish time:** 6:00 EST
+
+**Actual time needed to complete:** 60 min (this involves trying to make it look pretty)
+
+----
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
