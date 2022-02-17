@@ -1,11 +1,11 @@
 import React from 'react';
+import './Footer.css';
 
 class Footer extends React.Component {
   render(){
     return (
       <>
-      <hr></hr>
-      <author>My name is Dan Brian and this is my website.</author>
+        <p className="footer" >My name is Dan Brian and this is my website.</p>
       </>
       ); //use parenthesis for multiline arguments
     }

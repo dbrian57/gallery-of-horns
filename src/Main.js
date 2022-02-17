@@ -5,24 +5,30 @@ import './Main.css'
 
 class Main extends React.Component {
   render(){
-
+ // console.log("main props: ", this.props)
     let beasts = [];
-    this.props.data.forEach(item => {
+    this.props.data.forEach((item, index) => {
       beasts.push(
         <HornedBeast
-          name={item.keyword}
+          key={index}
+          name={item.title}
           image_url={item.image_url}
+          description={item.description}
+          beast={item}
+          handleShowModal={this.props.handleShowModal}
           />
       )
     } )
 
     return (
-      <main>
-        <div id="beasts">
-          {beasts}
-        </div>
-      </main>
-      ); //use parenthesis for multiline arguments
+      <>
+        <main>
+          <div id="beasts">
+            {beasts}
+          </div>
+        </main>
+      </>
+      );
     }
 }
 
