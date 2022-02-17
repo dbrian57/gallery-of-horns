@@ -2,6 +2,18 @@
 
 This is a website that displayed photos of various horned beasts and allows you to vote on them.
 
+## Lab 03
+
+Number and name of feature: Display a Modal
+
+Estimate of time needed to complete: 60 minute?
+
+Start time: 4pm (EST)
+
+Finish time: 7ish
+
+Actual time needed to complete: Embarrassingly long (3hr)
+
 ## Lab 02
 
 Dynamically added images, added a voting feature, and imported bootstrap.
