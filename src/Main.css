@@ -1,4 +1,16 @@
 #beasts {
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: 20px;
 }
+
+Form {
+  width: 100px;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+#woop {
+  text-align: center;
+}
+

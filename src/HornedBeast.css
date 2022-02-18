@@ -12,3 +12,10 @@ img {
 h2 {
   font-size: 2vw;
 }
+
+Card {
+  padding: 10px;
+  border: 1px solid black;
+  margin: 10px;
+  width: 25vw;
+}
