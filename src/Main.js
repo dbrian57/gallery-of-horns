@@ -1,9 +1,7 @@
 import React from 'react';
 import HornedBeast from './HornedBeast'
 import './Main.css'
-import Bootstrap from 'bootstrap/dist/css/bootstrap.min.css';
 import Form from 'react-bootstrap/Form';
-
 
 class Main extends React.Component {
 
